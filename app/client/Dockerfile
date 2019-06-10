@@ -14,4 +14,4 @@ COPY AppClient.py /src/
 EXPOSE 5000
 
 #executa a arquivo copiado
-ENTRYPOINT ["python", "/src/AppClient.py"]
+CMD ["python", "/src/AppClient.py"]
