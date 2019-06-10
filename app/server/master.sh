@@ -12,6 +12,7 @@ sudo apt -y install docker-ce docker-ce-cli containerd.io
 sudo systemctl start docker
 sudo systemctl enable docker
 sudo apt -y upgrade
+sudo gpasswd -a "${USER}" docker
 
 #Iniciando o Docker Swarm Master na VM Master
 s=$(sudo docker swarm init --advertise-addr 192.168.50.2:2377)
