@@ -14,4 +14,4 @@ COPY AppServer.py /src/
 EXPOSE 5000
 
 #executa a arquivo copiado
-ENTRYPOINT ["python", "/src/AppServer.py"]
+CMD ["python", "/src/AppServer.py"]
