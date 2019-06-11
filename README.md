@@ -23,7 +23,7 @@ Clonar este repositório e acessar a pasta /vm
 ```
 
 ## Passo 3:
-Verificar e iniciar as VMs. As etapas de instalação e configuração do docker são feitas por scripts sendo executados durante a criação das VMs.
+Verificar e iniciar as VMs. As etapas de instalação e configuração do docker são feitas por scripts (master.sh e worker.sh), que são executados durante a criação das VMs.
 
 ```markdown
  $ vagrant status
