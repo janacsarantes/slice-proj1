@@ -18,8 +18,8 @@ Docente: Fábio Verdi
 Clonar este repositório e acessar a pasta /vm
 
 ```markdown
- $ git clone https://github.com/joaovsa/slice-proj1.git
- $ cd slice-pro1/vm
+ $ git clone https://github.com/joaovsa/slice-proj1-master.git
+ $ cd slice-proj1-master/vm
 ```
 
 ## Passo 3:
