@@ -19,7 +19,9 @@ Clonar este repositório e acessar a pasta /vm
 
 ```markdown
  $ git clone https://github.com/joaovsa/slice-proj1.git
- $ cd slice-pro1/vm
+ $ cd slice-proj1-master/vm
+ 
+ slice-proj1-master\vm
 ```
 
 ## Passo 3:
